@@ -1,0 +1,9 @@
+{ "nodes": [
+  
+  {"id":"CO2", "group":"Mars", "percent":95.32},
+  {"id":"N2", "group":"Mars", "percent":2.7},
+  {"id":"Ar", "group":"Mars", "percent":1.6},
+  {"id":"O2", "group":"Mars", "percent":0.13},
+  {"id":"CO", "group":"Mars", "percent":0.08}
+
+]}
